@@ -1,0 +1,1 @@
+terraform import azurerm_resource_group.name ResourceID --- used to import the existing resources in the state file to manage the resources inside without creating new one
